@@ -1,0 +1,20 @@
+{
+  "short_name": "Portal do Aluno",
+  "name": "Portal do Aluno",
+  "icons": [
+    {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTxJg2f4HkzRngiUp7gkNaf9k99J_rOhfs8Q&s",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTxJg2f4HkzRngiUp7gkNaf9k99J_rOhfs8Q&s",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://portalaluno26.vercel.app/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
